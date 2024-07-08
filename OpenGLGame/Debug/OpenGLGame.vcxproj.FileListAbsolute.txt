@@ -1,0 +1,2 @@
+C:\dev\cpp\OpenGLGame\Debug\OpenGLGame.exe
+C:\dev\cpp\Github\OpenGLGameGit\OpenGLGame\OpenGLGame\Debug\OpenGLGame.exe
