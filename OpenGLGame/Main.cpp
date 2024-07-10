@@ -147,7 +147,7 @@ int main(void)
         ASSERT(color_location != -1);
 
         glUseProgram(0);
-        glBindVertexArray(0);
+        va.Unbind();
         vb.Unbind();
         ib.Unbind();
 
