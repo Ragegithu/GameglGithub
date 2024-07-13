@@ -1,6 +1,9 @@
 C:\dev\cpp\Github\GameglGithub\OpenGLGame\IndexBuffer.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\IndexBuffer.obj
 C:\dev\cpp\Github\GameglGithub\OpenGLGame\Main.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\Main.obj
 C:\dev\cpp\Github\GameglGithub\OpenGLGame\Renderer.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\Renderer.obj
+C:\dev\cpp\Github\GameglGithub\OpenGLGame\Shader.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\Shader.obj
+C:\dev\cpp\Github\GameglGithub\OpenGLGame\stb_image.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\stb_image.obj
+C:\dev\cpp\Github\GameglGithub\OpenGLGame\Texture.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\Texture.obj
 C:\dev\cpp\Github\GameglGithub\OpenGLGame\VertexArray.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\VertexArray.obj
 C:\dev\cpp\Github\GameglGithub\OpenGLGame\VertexBuffer.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\VertexBuffer.obj
 C:\dev\cpp\Github\GameglGithub\OpenGLGame\VertexBufferLayout.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\VertexBufferLayout.obj
