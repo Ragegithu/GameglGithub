@@ -57,6 +57,18 @@
     <ClCompile Include="res\glm\detail\glm.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="res\ImGui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="res\ImGui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="res\ImGui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="res\ImGui\imgui_impl_glfw_gl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="BasicShader.shader">
@@ -851,6 +863,27 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="res\glm\vector_relational.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="res\ImGui\imconfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="res\ImGui\imgui.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="res\ImGui\imgui_impl_glfw_gl3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="res\ImGui\imgui_internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="res\ImGui\stb_rect_pack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="res\ImGui\stb_textedit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="res\ImGui\stb_truetype.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

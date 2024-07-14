@@ -2,6 +2,10 @@ C:\dev\cpp\Github\GameglGithub\OpenGLGame\IndexBuffer.cpp;C:\dev\cpp\Github\Game
 C:\dev\cpp\Github\GameglGithub\OpenGLGame\Main.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\Main.obj
 C:\dev\cpp\Github\GameglGithub\OpenGLGame\Renderer.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\Renderer.obj
 C:\dev\cpp\Github\GameglGithub\OpenGLGame\res\glm\detail\glm.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\glm.obj
+C:\dev\cpp\Github\GameglGithub\OpenGLGame\res\ImGui\imgui.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\imgui.obj
+C:\dev\cpp\Github\GameglGithub\OpenGLGame\res\ImGui\imgui_demo.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\imgui_demo.obj
+C:\dev\cpp\Github\GameglGithub\OpenGLGame\res\ImGui\imgui_draw.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\imgui_draw.obj
+C:\dev\cpp\Github\GameglGithub\OpenGLGame\res\ImGui\imgui_impl_glfw_gl3.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\imgui_impl_glfw_gl3.obj
 C:\dev\cpp\Github\GameglGithub\OpenGLGame\Shader.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\Shader.obj
 C:\dev\cpp\Github\GameglGithub\OpenGLGame\stb_image.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\stb_image.obj
 C:\dev\cpp\Github\GameglGithub\OpenGLGame\Texture.cpp;C:\dev\cpp\Github\GameglGithub\OpenGLGame\OpenGLGame\Debug\Texture.obj
